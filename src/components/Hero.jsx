@@ -18,7 +18,7 @@ export default function Hero() {
             <a className="btn btn--light" href={profile.resume} download><FaDownload /> Download Resume</a>
           </div>
 
-          <SocialLinks />
+          {/* <SocialLinks /> */}
         </div>
 
         <div className="hero__visual">

@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__inner">
         <p>© {new Date().getFullYear()} {profile.name}. All rights reserved.</p>
-        <SocialLinks />
+        {/* <SocialLinks /> */}
       </div>
     </footer>
   );

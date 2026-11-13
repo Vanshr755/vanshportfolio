@@ -99,7 +99,7 @@ export const projects = {
       title: "E-Commerce Book Shopping Website",
       description:
         "Full-featured book shopping web application with product browsing, product management, shopping cart, order management, role-based access, and payment integration workflows.",
-      image: asset("images/project-ecommerce.jpg"),
+      image: asset("images/ecommerce-books.jpg"),
       tech: ["C#", "ASP.NET Core MVC", "EF Core", "SQL Server", "HTML", "CSS", "Bootstrap 5"],
       github: "",
       live: "",
@@ -108,7 +108,7 @@ export const projects = {
       title: "NationalPark REST API",
       description:
         "RESTful API for managing national parks and trails built using controllers, DTOs, repository and unit-of-work patterns, data validation, object mapping, and database operations.",
-      image: "", // image dalna ho to "asset('images/nationalpark.jpg')"
+      image:  asset("images/nationalpark.jpg"), // image dalna ho to "asset('images/nationalpark.jpg')"
       tech: ["ASP.NET Core Web API", "C#", "EF Core", "SQL Server", "Repository Pattern"],
       github: "",
       live: "",
